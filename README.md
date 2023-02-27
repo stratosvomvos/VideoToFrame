@@ -1,5 +1,6 @@
 # VideoToFrame
 A python app that extracts all frames from a video to images using the OpenCV Library and saves them to jpeg images
+![alt text](https://github.com/stratosvomvos/VideoToFrame/blob/main/files.png?raw=true)
 QuickStart:
 1). Install Python
 2). Install OpenCV [do pip install opencv-python]
