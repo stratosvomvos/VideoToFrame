@@ -4,9 +4,15 @@ A python app that extracts all frames from a video to images using the OpenCV Li
 
 
 
-QuickStart:\
-1). Install Python\
-2). Install OpenCV [do pip install opencv-python]\
-3). Do python main.py\
-(or go to releases and get the exe) \
-YOU NEED TO NAME THE FILE YOU WANT TO SPLIT TO FRMES in.mp4\
+QuickStart:
+1). Install Python
+
+2). Install OpenCV 
+[do pip install opencv-python]
+
+3). Do python main.py
+
+(or go to releases and get the exe) 
+
+
+Input MP4 should be named in.mp4 and should be in the same folder as the script/exe
